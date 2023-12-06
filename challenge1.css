@@ -1,0 +1,64 @@
+body {
+    background-image: url(sfondo.jpg);
+    background-size: 100%;
+}
+
+.sopra {
+    text-align: center;
+   
+}
+
+.logo {
+    width: 300px;
+}
+
+h1 {
+    color: limegreen;
+    font-size: 35px;
+}
+
+ .bottoni {
+    background-color: limegreen;
+    width: 100%;
+    line-height: 50px;
+    text-align: center;
+}
+
+.quadrato {  
+    background-color: rgba(0,0,0,0.65);
+    border-radius: 20px;
+    margin-top: 3%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 3%; 
+}
+
+.monopattini {
+    color: white;
+    font-size: 20px;
+}
+
+.giallo {
+    width: 450px;
+    height: 30px;
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+.blu{
+    width: 600px;
+    height: 30px;
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.rosso {
+    width: 300px;
+    height: 30px;
+    background-color: red;
+    border-radius: 10px;
+}
+
+h2 {
+    margin-bottom: 3px;
+}
